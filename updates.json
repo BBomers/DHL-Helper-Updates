@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "DHL@bobbomers.nl": {
+      "updates": [
+        {
+          "version": "2.6",
+          "update_link": "https://raw.githubusercontent.com/BBomers/DHL-Helper-Updates/main/DHL_Helper_AUTH-2.6.xpi"
+        }
+      ]
+    }
+  }
+}
